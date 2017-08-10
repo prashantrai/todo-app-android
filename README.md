@@ -25,6 +25,7 @@ The following **optional** features are NOT implemented:
 The following **additional** features are NOT implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Add location for todo work and get notified when around that area.
 
 ## Video Walkthrough 
 
@@ -41,16 +42,8 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2016 [Prashant Rai]
+    Copyright [2017] [Prashant Rai]
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+
