@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 https://drive.google.com/file/d/0B61kTXs9XkX_MlRWenpEdkZXVlU/view?usp=sharing
 
-<img src='https://github.com/prashantrai/todo-app-android/blob/master/todo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/prashantrai/todo-app-android/blob/master/todo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
