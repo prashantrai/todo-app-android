@@ -43,11 +43,21 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:** So far my experience is very exciting and I'd continue this learning make something more interesting.
+I coudn't we can develop/add many interesting functionality in very less time.
+
+I'm more on a back-end/platform developer but I've workes couple of project where I had to work on front-end too (mostly web app) with HTML, CSS and some other JS framworks. This is first experience with any mobile development platform and I personally feel the developing UI interface on andriod in interesting. Android provides a variety of pre-built UI components, UI controls that allow us to build the graphical user interface for our app. Android also provides other UI modules for special interfaces such as dialogs, notifications and menus.
+
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:**
+
+`Adapters` are a bridge between the Adapter View (e.g. `ListView`) and the underlying data for that view. We need to display the items in a list view here and Adapters are responsible for retrieving data from the data set and for generating View objects based on that data. Whenever list view needs to draw a view at a particular list position, it gets it from the adapter. The adapter makes the view for that position and returns it.
+
+`convertView` is the old view to reuse, if possible. Adapter uses the convertView as a way of recycling old View objects that are no longer being used. This parameter is used strictly to increase the performance of `Adapter`. In this way, the ListView can send the Adapter old, "recycled" view objects that are no longer being displayed instead of instantiating an entirely new object each time the Adapter wants to display a new list item.
+
+
 
 ## Notes
 
